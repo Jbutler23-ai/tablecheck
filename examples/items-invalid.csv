@@ -1,0 +1,3 @@
+item_id,name,category,weight,craftable
+1,,tool,-2,yes
+two,Moon Biscuit,magic,0.5,false

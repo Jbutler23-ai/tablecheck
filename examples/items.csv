@@ -1,0 +1,4 @@
+item_id,name,category,weight,craftable
+1,Moss Lantern,tool,1.25,true
+2,"Sunberry, dried",food,0.2,false
+3,Cloudstone,material,4.5,true

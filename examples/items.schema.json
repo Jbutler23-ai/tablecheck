@@ -1,0 +1,10 @@
+{
+  "allow_extra_columns": false,
+  "columns": [
+    {"name": "item_id", "type": "integer", "required": true, "min": 1},
+    {"name": "name", "type": "string", "required": true},
+    {"name": "category", "type": "string", "required": true, "choices": ["tool", "food", "material"]},
+    {"name": "weight", "type": "number", "required": true, "min": 0, "max": 100},
+    {"name": "craftable", "type": "boolean", "required": true}
+  ]
+}

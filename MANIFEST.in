@@ -1,0 +1,7 @@
+include README.md ROADMAP.md LICENSE
+recursive-include examples *.csv *.json
+recursive-include tests *.py
+global-exclude *.py[cod]
+prune .verification
+prune build
+prune dist
